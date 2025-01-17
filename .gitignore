@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+x64/Debug
+AoC23.vcxproj.filters
+AoC23.vcxproj.user
