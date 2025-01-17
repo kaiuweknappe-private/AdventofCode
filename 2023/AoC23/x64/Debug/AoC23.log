@@ -1,7 +1,0 @@
-﻿  Main.cpp
-C:\Users\Kai-Uwe\source\repos\AoC23\AoC23\Main.cpp(13,18): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "double", möglicher Datenverlust
-C:\Users\Kai-Uwe\source\repos\AoC23\AoC23\Main.cpp(13,18): warning C4244:         with
-C:\Users\Kai-Uwe\source\repos\AoC23\AoC23\Main.cpp(13,18): warning C4244:         [
-C:\Users\Kai-Uwe\source\repos\AoC23\AoC23\Main.cpp(13,18): warning C4244:             _Rep=__int64
-C:\Users\Kai-Uwe\source\repos\AoC23\AoC23\Main.cpp(13,18): warning C4244:         ]
-  AoC23.vcxproj -> C:\Users\Kai-Uwe\source\repos\AoC23\x64\Debug\AoC23.exe
